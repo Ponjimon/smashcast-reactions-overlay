@@ -19,4 +19,4 @@ If set to `true`, the overlay will enable transparent mode. It will then only sh
 If transparent mode is enabled, you can use this to adjust the color of the text. Use any hexadecimal color excluding the #.
 
 ## Screenshots
-![Preview](https://git.ify.re/lookapanda/smashcast-reactions-overlay/raw/master/screenshot.png)
+![Preview](https://github.com/lookapanda/smashcast-reactions-overlay/raw/master/screenshot.png)
